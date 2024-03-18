@@ -8,7 +8,7 @@ I'm a software engineering student at the Stevens Institute of Technology, passi
 **🏅 Honors:** Stevens 2023 Gallois Competition Finalist, Edwin A. Stevens Scholarship, Presidential Scholarship
 
 ### Skills
-- **Software:** TensorFlow, React, AWS, Arduino, SolidWorks, MATLAB, Simulink, Git, Excel
+- **Software:** TensorFlow, React, AWS, Arduino, SolidWorks, MATLAB, Simulink, Git, MongoDB, MySQL, Excel
 - **Programming Languages:** Python, Java, C++, Javascript, HTML/CSS, Node.js
 - **Tools:** VSCode, IntellJ, Eclipse, Jira, MongoCompass, Kubernetes
 

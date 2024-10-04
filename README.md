@@ -12,6 +12,17 @@ I'm a software engineering student at the Stevens Institute of Technology, passi
 - **Programming Languages:** Python, Java, C++, Javascript, HTML/CSS, Node.js
 - **Tools:** VSCode, IntellJ, Eclipse, Jira, MongoCompass, Kubernetes
 
+###Professional Experience
+• Led the design and implementation of client-specific custom features, leveraging C# and .NET, to enhance the flexibility
+of the product offering, enabling seamless integration with unique client workflows, increasing client satisfaction by 50%.
+• Enhanced product reliability by collaborating with Implementation Enablement and Customer Experience teams to
+resolve 40+ software bugs in the C# backend and .NET framework.
+• Improved bug resolution efficiency by 30% by conducting thorough code reviews and debugging sessions, and using Azure
+DevOps CI pipelines to continuously test and maintain high-quality code.
+• Managed company databases and ensured data integrity by writing and optimizing SQL queries to conduct data parsing,
+analysis, and verification.
+
+
 ### Research Project
 
 #### ChatGPT Code Refactorization Tool

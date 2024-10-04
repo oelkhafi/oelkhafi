@@ -4,8 +4,8 @@ I'm a software engineering student at the Stevens Institute of Technology, passi
 
 **🌍 Based in:** NYC Metropolitan Area  
 **📚 Education:** Bachelor of Engineering in Software Engineering, Stevens Institute of Technology  
-**📈 GPA:** 3.92  
-**🏅 Honors:** Stevens 2023 Gallois Competition Finalist, Edwin A. Stevens Scholarship, Presidential Scholarship
+**📈 GPA:** 3.94  
+**🏅 Honors:** Edwin A. Stevens Scholarship, Presidential Scholarship, Pinnacle Scholars
 
 ### Skills
 - **Software:** TensorFlow, React, AWS, Arduino, SolidWorks, MATLAB, Simulink, Git, MongoDB, MySQL, Excel

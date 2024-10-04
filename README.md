@@ -12,7 +12,7 @@ I'm a software engineering student at the Stevens Institute of Technology, passi
 - **Programming Languages:** Python, Java, C++, Javascript, HTML/CSS, Node.js
 - **Tools:** VSCode, IntellJ, Eclipse, Jira, MongoCompass, Kubernetes
 
-###Professional Experience
+### Professional Experience
 - Led the design and implementation of client-specific custom features, leveraging C# and .NET, to enhance the flexibility
 of the product offering, enabling seamless integration with unique client workflows, increasing client satisfaction by 50%.
 - Enhanced product reliability by collaborating with Implementation Enablement and Customer Experience teams to

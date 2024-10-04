@@ -7,11 +7,6 @@ I'm a software engineering student at the Stevens Institute of Technology, passi
 **📈 GPA:** 3.94  
 **🏅 Honors:** Edwin A. Stevens Scholarship, Presidential Scholarship, Pinnacle Scholars
 
-### Skills
-- **Software:** TensorFlow, React, AWS, Arduino, SolidWorks, MATLAB, Simulink, Git, MongoDB, MySQL, Excel
-- **Programming Languages:** Python, Java, C++, Javascript, HTML/CSS, Node.js
-- **Tools:** VSCode, IntellJ, Eclipse, Jira, MongoCompass, Kubernetes
-
 ### Professional Experience
 - Led the design and implementation of client-specific custom features, leveraging C# and .NET, to enhance the flexibility
 of the product offering, enabling seamless integration with unique client workflows, increasing client satisfaction by 50%.
@@ -21,6 +16,11 @@ resolve 40+ software bugs in the C# backend and .NET framework.
 DevOps CI pipelines to continuously test and maintain high-quality code.
 - Managed company databases and ensured data integrity by writing and optimizing SQL queries to conduct data parsing,
 analysis, and verification.
+
+### Skills
+- **Software:** TensorFlow, React, AWS, Arduino, SolidWorks, MATLAB, Simulink, Git, MongoDB, MySQL, Excel
+- **Programming Languages:** Python, Java, C++, Javascript, HTML/CSS, Node.js
+- **Tools:** VSCode, IntellJ, Eclipse, Jira, MongoCompass, Kubernetes
 
 
 ### Research Project

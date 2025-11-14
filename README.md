@@ -4,10 +4,13 @@ I'm a software engineering student at the Stevens Institute of Technology, passi
 
 **🌍 Based in:** NYC Metropolitan Area  
 **📚 Education:** Bachelor of Engineering in Software Engineering, Stevens Institute of Technology  
-**📈 GPA:** 3.94  
+**📈 GPA:** 3.96  
 **🏅 Honors:** Edwin A. Stevens Scholarship, Presidential Scholarship, Pinnacle Scholars
 
 ### Professional Experience
+#### SWE Intern @Calero Software
+- Interned on the Risk Finance & Treasury team
+
 #### SWE Intern @Calero Software
 - Led the design and implementation of client-specific custom features, leveraging C# and .NET, to enhance the flexibility
 of the product offering, enabling seamless integration with unique client workflows, increasing client satisfaction by 50%.

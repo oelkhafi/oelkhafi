@@ -8,7 +8,7 @@ I'm a software engineering student at the Stevens Institute of Technology, passi
 **🏅 Honors:** Edwin A. Stevens Scholarship, Presidential Scholarship, Pinnacle Scholars
 
 ### Professional Experience
-#### SWE Intern @Calero Software
+#### SWE Intern @Barclays
 - Interned on the Risk Finance & Treasury team
 
 #### SWE Intern @Calero Software

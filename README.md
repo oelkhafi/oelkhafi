@@ -1,6 +1,6 @@
 ### Hi there, I'm Omar Elkhafif 👋
 
-I'm a software engineering student at the Stevens Institute of Technology, passionate about building innovative software solutions. With a strong academic record and a variety of technical skills, I'm always looking to collaborate on exciting projects.
+I'm a software engineering graduate from Stevens Institute of Technology, passionate about building innovative software solutions. With a strong academic record and a variety of technical skills, I'm always looking to collaborate on exciting projects.
 
 **🌍 Based in:** NYC Metropolitan Area  
 **📚 Education:** Bachelor of Engineering in Software Engineering, Stevens Institute of Technology  
